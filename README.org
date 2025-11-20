@@ -1,0 +1,5 @@
+#+TITLE: Práctica de árboles de decisión
+#+AUTHOR: Emanuel Alejandro Tavares Medina
+#+SUBTITLE: Programación Lógica Funcional
+
+* Redactando
