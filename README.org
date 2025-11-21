@@ -61,7 +61,7 @@ El árbol se va ampliando, ahora además de la intensidad del color está la pro
 
 ** Profundidad 3
 
-file:anexos/profundidad3.png
+[[file:anexos/profundidad3.png]]
 
 Aparece una regla más: las cenizas, para clasificar a los vinos como clase 1 y 0 a los que obtienen una intensidad del color menor o igual a 3.82 y una cantidad de prolina menor o igual a 1002.50. En este punto ya es notable que el árbol conforme aumenta el valor de 'max depth' se va volviendo más preciso y esto lo demuestra el valor de precisión.
 
@@ -73,11 +73,11 @@ Surge una regla extra: el alcohol, para clasificar a los vinos con intensidad de
 
 ** Profundidad 5
 
-file:anexos/profundidad5.png
+[[file:anexos/profundidad5.png]]
 
 ** Sin límite de profundidad
 
-file:anexos/none.png
+[[file:anexos/none.png]]
 
 No se observan cambios visibles en comparación a la profundidad 4 y 5, parece que a partir del valor 4 no existen más cambios.
 
